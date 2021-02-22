@@ -1,2 +1,3 @@
-# scanerBot
-scan ports :3
+ scaner-bot
+# Usage
+python main.py
